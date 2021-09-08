@@ -14,4 +14,4 @@
 - [Hice mi primera contribución en el código de alacritty-themes](https://juanvasquez.dev/2021/08/28/primera-contribucion-en-el-repositorio-alacritty-themes/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://juanvqz.github.io)
+➡️ [more blog posts...](https://juanvasquez.dev)
