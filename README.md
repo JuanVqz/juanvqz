@@ -1,7 +1,11 @@
 ## 👋 Hi there! I'm [Juan Vásquez](https://twitter.com/juanvqz_)
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals:
+
+  0. Contribute to rails core
+  1. Keep doing exercise :bike:
+  2. Get engachment 💍
 - ⚡ Fun fact: I love ride bike
 
 ### 📕 Latest Blog Posts
