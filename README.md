@@ -2,11 +2,10 @@
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals:
-
-  0. Contribute to rails core
-  1. Keep doing exercise :bike:
-  2. Get engachment 💍
-- ⚡ Fun fact: I love ride bike
+  - Contribute and get used to the [rails](https://github.com/rails/rails) project
+  - Keep doing exercise :bike:
+  - Get engachment 💍
+- Fun fact: I love ride bike
 
 ### 📕 Latest Blog Posts
 
