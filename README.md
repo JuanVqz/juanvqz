@@ -2,10 +2,10 @@
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals:
-  - Contribute and get used to the [rails](https://github.com/rails/rails) project
+  - Contribute and get used to the [rails](https://github.com/rails/rails) core
   - Keep doing exercise :bike:
   - Get engachment 💍
-- Fun fact: I love ride bike
+- Fun fact: My nickname is `pollo`
 
 ### 📕 Latest Blog Posts
 
