@@ -1,11 +1,6 @@
-## 👋 Hi there! I'm [Juan Vásquez](https://twitter.com/juanvqz_)
+## 👋 Hi there! I'm Juan Vásquez
 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals:
-  - Contribute and get used to the [rails](https://github.com/rails/rails) core
-  - Keep doing exercise :bike:
-  - Get engachment 💍
-- Fun fact: My nickname is `pollo`
+Let's connect [twitter](https://twitter.com/juanvqz_)
 
 ### 📕 Latest Blog Posts
 
