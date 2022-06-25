@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Juan Vásquez
 
-Let's connect [twitter](https://twitter.com/juanvqz_)
+Let's connect on [twitter](https://twitter.com/juanvqz_)
 
 ### 📕 Latest Blog Posts
 
