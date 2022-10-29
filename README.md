@@ -5,11 +5,11 @@ Let's connect on [twitter](https://cntr.click/QfF51Df)
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate sentry-raven to sentry-ruby gem in rails](https://juanvasquez.dev/development/2022/07/01/migrate-sentry-raven-to-sentry-ruby-in-rails/)
-- [How to fix RVM openssl error in ubuntu 22.04](https://juanvasquez.dev/development/2022/06/15/how-to-fix-openssl-error-with-rvm-in-ubuntu-22-04/)
-- [How to install zsh and oh-my-zsh on ubuntu?](https://juanvasquez.dev/development/2022/06/03/how-to-install-zsh-and-oh-my-zsh-on-ubuntu/)
-- [How Do I Use Prismjs in My blog?](https://juanvasquez.dev/development/2022/05/30/how-do-i-use-prismjs-in-my-blog/)
-- [Dockerizing Bridwgetownrb v1](https://juanvasquez.dev/development/2022/05/15/dockerizing-bridgetownrb-v1/)
+- [Alacritty-Themes release 4.1.2 🌈😍](https://dev.to/juanvqz/alacritty-themes-release-4-1-2-2hp7)
+- [Dogs are most responsive to commands spoken in Spanish.](https://dev.to/juanvqz/dogs-are-most-responsive-to-commands-spoken-in-spanish-4k2o)
+- [if you cry in space. the tears will stick to your face.](https://dev.to/juanvqz/if-you-cry-in-space-the-tears-will-stick-to-your-face-25ap)
+- [The first pair of scissors manufactured was left handed.](https://dev.to/juanvqz/the-first-pair-of-scissors-manufactured-was-left-handed-5ai8)
+- [The seahorse is the only fish that can swim backwards.](https://dev.to/juanvqz/the-seahorse-is-the-only-fish-that-can-swim-backwards-5eng)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
