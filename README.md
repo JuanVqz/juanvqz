@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Juan Vásquez
+## 👋 Hi there! This is Juan Vásquez
 
 An overview about me:
 
