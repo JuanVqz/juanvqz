@@ -12,11 +12,11 @@ Let's connect on [twitter](https://twitter.com/juanvqz_) if have a question or w
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MySQL on Linux](https://juanvasquez.dev/blog/mysql-on-linux/)
 - [How to Drop Rails Table](https://juanvasquez.dev/blog/how-to-drop-rails-table/)
 - [Mastering Git Bisect: Finding Bugs with Precision](https://juanvasquez.dev/blog/mastering-git-bisect-finding-bugs-with-precision/)
 - [How to Remove Multiple Git Branches at Once](https://juanvasquez.dev/blog/how-to-remove-multiple-git-branches-at-once/)
 - [Happy New Year 2023](https://juanvasquez.dev/blog/happy-new-year-2023/)
-- [Migrate sentry-raven to sentry-ruby gem in rails](https://juanvasquez.dev/blog/migrate-sentry-raven-to-sentry-ruby-gem-in-rails/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
