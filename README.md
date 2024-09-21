@@ -3,8 +3,9 @@
 An overview about me:
 
 - I'm from México 🇲🇽
-- My favorite dish is the [tlayuda](https://www.youtube.com/watch?v=6k01Mcve-zU) in this [place](https://goo.gl/maps/Utmr8mBvzPWAKH4R8)
-- I've been working as a software engineer for a long time
+- My favorite dish is the [tlayuda](https://www.youtube.com/watch?v=6k01Mcve-zU) in this [place](https://goo.gl/maps/Utmr8mBvzPWAKH4R8).
+- I've been working as a software engineer for over a decade.
+- MDN Spanish team member [please contribute](https://github.com/mdn/translated-content/tree/main/docs/es).
 - Currently working at [OmbuLabs](https://www.ombulabs.com/), we are [hiring](https://www.ombulabs.com/jobs) if you are interested.
 
 Let's connect on [twitter](https://twitter.com/juanvqz_) if have a question or want to share something with me 👍 
