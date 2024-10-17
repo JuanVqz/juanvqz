@@ -2,7 +2,7 @@
 
 An overview about me:
 
-- I'm from México 🇲🇽
+- I'm from México 🇲🇽, currently living in Oaxaca.
 - My favorite dish is the [tlayuda](https://www.youtube.com/watch?v=6k01Mcve-zU) in this [place](https://goo.gl/maps/Utmr8mBvzPWAKH4R8).
 - I've been working as a software engineer for over a decade.
 - MDN Spanish team member [please contribute](https://github.com/mdn/translated-content/tree/main/docs/es).
