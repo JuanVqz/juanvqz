@@ -15,11 +15,11 @@ Let's connect on [twitter](https://twitter.com/juanvqz_) if have a question or w
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Turbo Streams to Turbo Morph: Simplifying Real-Time Rails](https://juanvasquez.dev/blog/from-turbo-streams-to-turbo-morph-in-rails/)
 - [The S3 Compatibility Trap: A Cloudflare R2 + Ruby SDK Gotcha](https://juanvasquez.dev/blog/cloudflare-r2-rails-activestorage/)
 - [MySQL on Linux](https://juanvasquez.dev/blog/mysql-on-linux/)
 - [How to Drop Rails Table](https://juanvasquez.dev/blog/drop-rails-table/)
 - [Mastering Git Bisect: Finding Bugs with Precision](https://juanvasquez.dev/blog/git-bisect/)
-- [How to Remove Multiple Git Branches at Once](https://juanvasquez.dev/blog/how-to-remove-multiple-git-branches-at-once/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
