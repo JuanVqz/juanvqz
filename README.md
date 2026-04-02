@@ -15,11 +15,11 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating a Rails App from Heroku to Railway](https://juanvasquez.dev/blog/migrating-from-heroku-to-railway/)
 - [From Turbo Streams to Turbo Morph: Simplifying Real-Time Rails](https://juanvasquez.dev/blog/from-turbo-streams-to-turbo-morph-in-rails/)
 - [The S3 Compatibility Trap: A Cloudflare R2 + Ruby SDK Gotcha](https://juanvasquez.dev/blog/cloudflare-r2-rails-activestorage/)
 - [MySQL on Linux](https://juanvasquez.dev/blog/mysql-on-linux/)
 - [How to Drop Rails Table](https://juanvasquez.dev/blog/drop-rails-table/)
-- [Mastering Git Bisect: Finding Bugs with Precision](https://juanvasquez.dev/blog/git-bisect/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
