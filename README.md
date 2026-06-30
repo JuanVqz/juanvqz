@@ -15,11 +15,11 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Vite to Propshaft + esbuild: Simplifying a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-vite-to-propshaft-esbuild-rails-asset-pipeline/)
+- [Building System Admin Impersonation for a Multi-Tenant Rails App](https://www.juanvasquez.dev/blog/system-admin-impersonation-multi-tenant-rails/)
+- [Simplifying My AI Dev Setup: What Worked and What I Cut](https://www.juanvasquez.dev/blog/simplifying-my-ai-dev-setup/)
+- [From HAML to ERB: Going Back to Rails-Native Templates](https://www.juanvasquez.dev/blog/from-haml-to-erb-going-back-to-rails-native-templates/)
 - [From Sprockets to Vite: Evolving a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-sprockets-to-vite-rails-asset-pipeline/)
-- [Contributing to Rails: A PWA Offline Fallback Page](https://www.juanvasquez.dev/blog/contributing-to-rails-pwa-offline-page/)
-- [Multi-Tenant Active Storage Done Right](https://www.juanvasquez.dev/blog/multi-tenant-active-storage/)
-- [Upgrading Rails From 5.2 to 8.1: Seven Years of Incremental Progress](https://www.juanvasquez.dev/blog/upgrading-rails-from-5-to-8-seven-years/)
-- [Migrating a Rails App from Heroku to Railway](https://www.juanvasquez.dev/blog/migrating-from-heroku-to-railway/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
