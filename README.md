@@ -15,11 +15,11 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bugs Live in the Seams](https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/)
 - [From Vite to Propshaft + esbuild: Simplifying a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-vite-to-propshaft-esbuild-rails-asset-pipeline/)
 - [Building System Admin Impersonation for a Multi-Tenant Rails App](https://www.juanvasquez.dev/blog/system-admin-impersonation-multi-tenant-rails/)
 - [Simplifying My AI Dev Setup: What Worked and What I Cut](https://www.juanvasquez.dev/blog/simplifying-my-ai-dev-setup/)
 - [From HAML to ERB: Going Back to Rails-Native Templates](https://www.juanvasquez.dev/blog/from-haml-to-erb-going-back-to-rails-native-templates/)
-- [From Sprockets to Vite: Evolving a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-sprockets-to-vite-rails-asset-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
