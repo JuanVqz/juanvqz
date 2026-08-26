@@ -15,6 +15,7 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parallel CI Deprecation Tracking in next_rails](https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/)
 - [From wicked_pdf to Prawn: A Rails PDF Generation Journey](https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/)
 - [The Bugs Live in the Seams](https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/)
 - [From Vite to Propshaft + esbuild: Simplifying a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-vite-to-propshaft-esbuild-rails-asset-pipeline/)
@@ -24,7 +25,6 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 - [From Sprockets to Vite: Evolving a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-sprockets-to-vite-rails-asset-pipeline/)
 - [Contributing to Rails: A PWA Offline Fallback Page](https://www.juanvasquez.dev/blog/contributing-to-rails-pwa-offline-page/)
 - [Multi-Tenant Active Storage Done Right](https://www.juanvasquez.dev/blog/multi-tenant-active-storage/)
-- [Upgrading Rails From 5.2 to 8.1: Seven Years of Incremental Progress](https://www.juanvasquez.dev/blog/upgrading-rails-from-5-to-8-seven-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
