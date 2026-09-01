@@ -15,6 +15,7 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishing Claude Code Skills as Plugins](https://www.juanvasquez.dev/blog/publishing-claude-code-skills-as-plugins/)
 - [Parallel CI Deprecation Tracking in next_rails](https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/)
 - [From wicked_pdf to Prawn: A Rails PDF Generation Journey](https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/)
 - [The Bugs Live in the Seams](https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/)
@@ -24,7 +25,6 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 - [From HAML to ERB: Going Back to Rails-Native Templates](https://www.juanvasquez.dev/blog/from-haml-to-erb-going-back-to-rails-native-templates/)
 - [From Sprockets to Vite: Evolving a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-sprockets-to-vite-rails-asset-pipeline/)
 - [Contributing to Rails: A PWA Offline Fallback Page](https://www.juanvasquez.dev/blog/contributing-to-rails-pwa-offline-page/)
-- [Multi-Tenant Active Storage Done Right](https://www.juanvasquez.dev/blog/multi-tenant-active-storage/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
