@@ -15,6 +15,7 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Contributing to MDN in Your Language](https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/)
 - [Finishing a 60-Page MDN Localization Tracker](https://www.juanvasquez.dev/blog/finishing-a-60-page-mdn-localization-tracker/)
 - [From Bulma to Tailwind: Migrating a Rails App&#39;s CSS Framework](https://www.juanvasquez.dev/blog/from-bulma-to-tailwind-css-migration-rails/)
 - [Publishing Claude Code Skills as Plugins](https://www.juanvasquez.dev/blog/publishing-claude-code-skills-as-plugins/)
@@ -24,7 +25,6 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 - [From Vite to Propshaft + esbuild: Simplifying a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-vite-to-propshaft-esbuild-rails-asset-pipeline/)
 - [Building System Admin Impersonation for a Multi-Tenant Rails App](https://www.juanvasquez.dev/blog/system-admin-impersonation-multi-tenant-rails/)
 - [Simplifying My AI Dev Setup: What Worked and What I Cut](https://www.juanvasquez.dev/blog/simplifying-my-ai-dev-setup/)
-- [From HAML to ERB: Going Back to Rails-Native Templates](https://www.juanvasquez.dev/blog/from-haml-to-erb-going-back-to-rails-native-templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
