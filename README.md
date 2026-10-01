@@ -15,16 +15,16 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Game About Juan, Installed by Juan](https://www.juanvasquez.dev/blog/guacamelee/)
 - [Installing maquina-components in a Rails App](https://www.juanvasquez.dev/blog/installing-maquina-components-in-a-rails-app/)
-- [Contributing to MDN in Your Language](https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/)
-- [Finishing a 60-Page MDN Localization Tracker](https://www.juanvasquez.dev/blog/finishing-a-60-page-mdn-localization-tracker/)
+- [Contributing to MDN in Spanish](https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/)
+- [MDN&#39;s Writing Guidelines, Now Current in Spanish](https://www.juanvasquez.dev/blog/finishing-a-60-page-mdn-localization-tracker/)
 - [From Bulma to Tailwind: Migrating a Rails App&#39;s CSS Framework](https://www.juanvasquez.dev/blog/from-bulma-to-tailwind-css-migration-rails/)
 - [Publishing Claude Code Skills as Plugins](https://www.juanvasquez.dev/blog/publishing-claude-code-skills-as-plugins/)
 - [Parallel CI Deprecation Tracking in next_rails](https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/)
 - [From wicked_pdf to Prawn: A Rails PDF Generation Journey](https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/)
 - [The Bugs Live in the Seams](https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/)
 - [From Vite to Propshaft + esbuild: Simplifying a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-vite-to-propshaft-esbuild-rails-asset-pipeline/)
-- [Building System Admin Impersonation for a Multi-Tenant Rails App](https://www.juanvasquez.dev/blog/system-admin-impersonation-multi-tenant-rails/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
