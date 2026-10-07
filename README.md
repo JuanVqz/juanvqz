@@ -15,6 +15,7 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Posting Full Jekyll Posts to dev.to](https://www.juanvasquez.dev/blog/cross-posting-a-jekyll-blog-to-dev-to-complete/)
 - [A Game About Juan, Installed by Juan](https://www.juanvasquez.dev/blog/guacamelee/)
 - [Installing maquina-components in a Rails App](https://www.juanvasquez.dev/blog/installing-maquina-components-in-a-rails-app/)
 - [Contributing to MDN in Spanish](https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/)
@@ -24,7 +25,6 @@ Let's connect on [X](https://x.com/juanvqz_) and feel free to visit my web page 
 - [Parallel CI Deprecation Tracking in next_rails](https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/)
 - [From wicked_pdf to Prawn: A Rails PDF Generation Journey](https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/)
 - [The Bugs Live in the Seams](https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/)
-- [From Vite to Propshaft + esbuild: Simplifying a Rails Asset Pipeline](https://www.juanvasquez.dev/blog/from-vite-to-propshaft-esbuild-rails-asset-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://juanvasquez.dev)
