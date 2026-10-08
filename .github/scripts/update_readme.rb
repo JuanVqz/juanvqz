@@ -63,7 +63,7 @@ end.compact
 abort "No posts in #{feed_url}" if posts.empty?
 
 latest = posts.sort_by { |post| post[:date] }.reverse.first(LATEST_COUNT).map do |post|
-  "#### [#{escape(post[:title])}](<#{post[:url]}>) · <sub>#{post[:date].strftime("%b %-d, %Y")}</sub>\n\n#{escape(post[:description])}\n"
+  "#### [#{escape(post[:title])}](<#{post[:url]}>)\n\n_#{post[:date].strftime("%b %-d, %Y")}_ · #{escape(post[:description])}\n"
 end.join("\n---\n\n")
 
 File.write(readme_path, replace_block(File.read(readme_path), "BLOG-POST-LIST", latest))

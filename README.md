@@ -18,63 +18,63 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-#### [Cross-Posting Full Jekyll Posts to dev.to](<https://www.juanvasquez.dev/blog/cross-posting-a-jekyll-blog-to-dev-to-complete/>) · <sub>Oct 6, 2026</sub>
+#### [Cross-Posting Full Jekyll Posts to dev.to](<https://www.juanvasquez.dev/blog/cross-posting-a-jekyll-blog-to-dev-to-complete/>)
 
-My blog has been connected to dev.to’s “Publishing to DEV Community from RSS” for a long time. Every post I wrote showed up on dev.to as a draft, which sounds like the whole job…
-
----
-
-#### [A Game About Juan, Installed by Juan](<https://www.juanvasquez.dev/blog/guacamelee/>) · <sub>Oct 1, 2026</sub>
-
-I wanted Guacamelee! because it is about luchadores. Then I found out the luchador is called Juan Aguacate, which is my name, and wanting it turned into needing it. It is a…
+_Oct 6, 2026_ · My blog has been connected to dev.to’s “Publishing to DEV Community from RSS” for a long time. Every post I wrote showed up on dev.to as a draft, which sounds like the whole job…
 
 ---
 
-#### [Installing maquina-components in a Rails App](<https://www.juanvasquez.dev/blog/installing-maquina-components-in-a-rails-app/>) · <sub>Sep 29, 2026</sub>
+#### [A Game About Juan, Installed by Juan](<https://www.juanvasquez.dev/blog/guacamelee/>)
 
-I recently migrated MayStore, a multitenant order management app, from 520 lines of custom CSS to maquina-components. This post covers what it takes, what worked well, and a few…
-
----
-
-#### [Contributing to MDN in Spanish](<https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/>) · <sub>Sep 22, 2026</sub>
-
-A developer in Guadalajara opens MDN to look up how fetch handles errors. They read English fine, but after nine hours of work it is the difference between understanding a page and…
+_Oct 1, 2026_ · I wanted Guacamelee! because it is about luchadores. Then I found out the luchador is called Juan Aguacate, which is my name, and wanting it turned into needing it. It is a…
 
 ---
 
-#### [MDN's Writing Guidelines, Now Current in Spanish](<https://www.juanvasquez.dev/blog/finishing-a-60-page-mdn-localization-tracker/>) · <sub>Sep 15, 2026</sub>
+#### [Installing maquina-components in a Rails App](<https://www.juanvasquez.dev/blog/installing-maquina-components-in-a-rails-app/>)
 
-In August the Spanish locale of MDN closed issue #35373: every page under /es/docs/MDN/Writing\_guidelines, 60 documents, synchronized with the English source. It took 114 days and…
-
----
-
-#### [From Bulma to Tailwind: Migrating a Rails App's CSS Framework](<https://www.juanvasquez.dev/blog/from-bulma-to-tailwind-css-migration-rails/>) · <sub>Sep 8, 2026</sub>
-
-The Starting Point I’ve been running a clinical assistance system for a few years: doctors manage patient consultations, hospitalizations, and referrals across multiple hospital…
+_Sep 29, 2026_ · I recently migrated MayStore, a multitenant order management app, from 520 lines of custom CSS to maquina-components. This post covers what it takes, what worked well, and a few…
 
 ---
 
-#### [Publishing Claude Code Skills as Plugins](<https://www.juanvasquez.dev/blog/publishing-claude-code-skills-as-plugins/>) · <sub>Sep 1, 2026</sub>
+#### [Contributing to MDN in Spanish](<https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/>)
 
-At OmbuLabs, we’ve been building Claude Code skills for Rails upgrades based on the FastRuby.io methodology. We had three skills working well locally, but distributing them meant…
-
----
-
-#### [Parallel CI Deprecation Tracking in next\_rails](<https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/>) · <sub>Aug 25, 2026</sub>
-
-I recently contributed two features to the next\_rails gem: parallel CI support for the deprecation tracker and a deprecations merge command to combine the results. This post…
+_Sep 22, 2026_ · A developer in Guadalajara opens MDN to look up how fetch handles errors. They read English fine, but after nine hours of work it is the difference between understanding a page and…
 
 ---
 
-#### [From wicked\_pdf to Prawn: A Rails PDF Generation Journey](<https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/>) · <sub>Aug 18, 2026</sub>
+#### [MDN's Writing Guidelines, Now Current in Spanish](<https://www.juanvasquez.dev/blog/finishing-a-60-page-mdn-localization-tracker/>)
 
-The Setup I run a clinical assistance system where doctors manage patient consultations, hospitalizations, and referrals. Every one of those records needs a printable PDF:…
+_Sep 15, 2026_ · In August the Spanish locale of MDN closed issue #35373: every page under /es/docs/MDN/Writing\_guidelines, 60 documents, synchronized with the English source. It took 114 days and…
 
 ---
 
-#### [The Bugs Live in the Seams](<https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/>) · <sub>Aug 11, 2026</sub>
+#### [From Bulma to Tailwind: Migrating a Rails App's CSS Framework](<https://www.juanvasquez.dev/blog/from-bulma-to-tailwind-css-migration-rails/>)
 
-My order management app had 187 passing tests. Green suite, clean Rubocop, zero Brakeman warnings. I added system tests and immediately found six bugs. None of them were logic…
+_Sep 8, 2026_ · The Starting Point I’ve been running a clinical assistance system for a few years: doctors manage patient consultations, hospitalizations, and referrals across multiple hospital…
+
+---
+
+#### [Publishing Claude Code Skills as Plugins](<https://www.juanvasquez.dev/blog/publishing-claude-code-skills-as-plugins/>)
+
+_Sep 1, 2026_ · At OmbuLabs, we’ve been building Claude Code skills for Rails upgrades based on the FastRuby.io methodology. We had three skills working well locally, but distributing them meant…
+
+---
+
+#### [Parallel CI Deprecation Tracking in next\_rails](<https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/>)
+
+_Aug 25, 2026_ · I recently contributed two features to the next\_rails gem: parallel CI support for the deprecation tracker and a deprecations merge command to combine the results. This post…
+
+---
+
+#### [From wicked\_pdf to Prawn: A Rails PDF Generation Journey](<https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/>)
+
+_Aug 18, 2026_ · The Setup I run a clinical assistance system where doctors manage patient consultations, hospitalizations, and referrals. Every one of those records needs a printable PDF:…
+
+---
+
+#### [The Bugs Live in the Seams](<https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/>)
+
+_Aug 11, 2026_ · My order management app had 187 passing tests. Green suite, clean Rubocop, zero Brakeman warnings. I added system tests and immediately found six bugs. None of them were logic…
 
 <!-- BLOG-POST-LIST:END -->
 
