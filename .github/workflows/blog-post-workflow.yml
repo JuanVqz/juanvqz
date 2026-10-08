@@ -1,16 +1,25 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Daily at 14:00 UTC (08:00 America/Mexico_City).
+    # Hourly from 16:20 to 23:20 UTC (10:20 to 17:20 America/Mexico_City).
     #
-    # One hour after the blog's own deploy cron, which runs at 13:00 UTC and is
-    # what publishes a scheduled post on its date. Running before it would read a
-    # feed that does not have the new post yet, and the README would stay a day
-    # behind every Tuesday.
-    - cron: "0 14 * * *"
+    # Posts are dated 09:00 Mexico City, and the blog deploy that publishes them
+    # is scheduled for 15:07 UTC, but GitHub starts that run late, anywhere from
+    # 15:53 to 21:57 UTC in practice. A single daily run would often read the feed
+    # before the new post is in it. Runs with nothing new commit nothing.
+    # Minute 20, not 0: scheduled runs at the top of the hour start latest.
+    - cron: "20 16-23 * * *"
 
   # Run it by hand from the Actions tab, without waiting for the cron.
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One run at a time, so two runs that both find a new post cannot race on push.
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-blog:
@@ -19,7 +28,21 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+      - uses: ruby/setup-ruby@v1
         with:
-          feed_list: "https://www.juanvasquez.dev/feed.xml"
-          max_post_count: 10
+          ruby-version: "4.0"
+
+      - name: Update README
+        run: ruby .github/scripts/update_readme.rb README.md https://www.juanvasquez.dev/feed.xml
+
+      - name: Commit README
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated with the latest blog posts"
+          # main may have moved since checkout, for example a README edit pushed
+          # while this run was going.
+          git pull --rebase
+          git push
