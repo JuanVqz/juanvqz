@@ -62,8 +62,12 @@ posts = REXML::XPath.match(feed, "//entry").map do |entry|
 end.compact
 abort "No posts in #{feed_url}" if posts.empty?
 
+# The date sits inside the heading, after a <br>, because the heading bottom
+# margin would otherwise push it away from the title. GitHub cannot restyle
+# <hr>, so each post ends with a 1px image line, lighter than the default.
+DIVIDER = %(<img src=".github/assets/divider.svg" width="100%" height="1" alt="">)
 latest = posts.sort_by { |post| post[:date] }.reverse.first(LATEST_COUNT).map do |post|
-  "#### [#{escape(post[:title])}](<#{post[:url]}>)\n\n_#{post[:date].strftime("%b %-d, %Y")}_ · #{escape(post[:description])}\n"
-end.join("\n---\n\n")
+  "### [#{escape(post[:title])}](<#{post[:url]}>)<br><sub>#{post[:date].strftime("%b %-d, %Y")}</sub>\n#{escape(post[:description])}<br>\n#{DIVIDER}\n"
+end.join("\n")
 
 File.write(readme_path, replace_block(File.read(readme_path), "BLOG-POST-LIST", latest))
