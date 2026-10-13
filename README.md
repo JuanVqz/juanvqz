@@ -18,6 +18,10 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+### [First Look at RomM: An App Store for Games I Already Own](<https://www.juanvasquez.dev/blog/first-look-at-romm/>)<br><sub>Oct 13, 2026</sub>
+I have two handhelds and a folder of games on my laptop. Getting a game from the laptop to a handheld meant shutting the console down, taking the SD card out, putting it in a…<br>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
+
 ### [Cross-Posting Full Jekyll Posts to dev.to](<https://www.juanvasquez.dev/blog/cross-posting-a-jekyll-blog-to-dev-to-complete/>)<br><sub>Oct 6, 2026</sub>
 My blog has been connected to dev.to’s “Publishing to DEV Community from RSS” for a long time. Every post I wrote showed up on dev.to as a draft, which sounds like the whole job…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
@@ -52,10 +56,6 @@ I recently contributed two features to the next\_rails gem: parallel CI support 
 
 ### [From wicked\_pdf to Prawn: A Rails PDF Generation Journey](<https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/>)<br><sub>Aug 18, 2026</sub>
 The Setup I run a clinical assistance system where doctors manage patient consultations, hospitalizations, and referrals. Every one of those records needs a printable PDF:…<br>
-<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
-
-### [The Bugs Live in the Seams](<https://www.juanvasquez.dev/blog/the-bugs-live-in-the-seams/>)<br><sub>Aug 11, 2026</sub>
-My order management app had 187 passing tests. Green suite, clean Rubocop, zero Brakeman warnings. I added system tests and immediately found six bugs. None of them were logic…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
 
 <!-- BLOG-POST-LIST:END -->
