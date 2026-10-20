@@ -18,6 +18,10 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+### [Contributing to oil.nvim: Adding a Copy Path Keymap](<https://www.juanvasquez.dev/blog/contributing-to-oil-nvim-add-gy-keymap/>)<br><sub>Oct 20, 2026</sub>
+I use oil.nvim daily as my file explorer in Neovim. It’s vim-vinegar style: you edit the filesystem like a normal buffer. Last week, I wanted to copy a file path but couldn’t find…<br>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
+
 ### [First Look at RomM: An App Store for Games I Already Own](<https://www.juanvasquez.dev/blog/first-look-at-romm/>)<br><sub>Oct 13, 2026</sub>
 I have two handhelds and a folder of games on my laptop. Getting a game from the laptop to a handheld meant shutting the console down, taking the SD card out, putting it in a…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
@@ -52,10 +56,6 @@ At OmbuLabs, we’ve been building Claude Code skills for Rails upgrades based o
 
 ### [Parallel CI Deprecation Tracking in next\_rails](<https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/>)<br><sub>Aug 25, 2026</sub>
 I recently contributed two features to the next\_rails gem: parallel CI support for the deprecation tracker and a deprecations merge command to combine the results. This post…<br>
-<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
-
-### [From wicked\_pdf to Prawn: A Rails PDF Generation Journey](<https://www.juanvasquez.dev/blog/from-wicked-pdf-to-prawn-rails-pdf-generation/>)<br><sub>Aug 18, 2026</sub>
-The Setup I run a clinical assistance system where doctors manage patient consultations, hospitalizations, and referrals. Every one of those records needs a printable PDF:…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
 
 <!-- BLOG-POST-LIST:END -->
