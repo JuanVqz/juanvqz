@@ -18,6 +18,10 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+### [Linux Mint on a MacBook Pro 2015: Getting Wi-Fi Working Offline](<https://www.juanvasquez.dev/blog/linux-mint-on-macbook-pro-2015-wifi-drivers/>)<br><sub>Oct 27, 2026</sub>
+I wanted to run OpenClaw on native Linux hardware. The cheapest path? Repurpose my old MacBook Pro 2015 sitting in a drawer. I installed Linux Mint, rebooted, and immediately hit a…<br>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
+
 ### [Contributing to oil.nvim: Adding a Copy Path Keymap](<https://www.juanvasquez.dev/blog/contributing-to-oil-nvim-add-gy-keymap/>)<br><sub>Oct 20, 2026</sub>
 I use oil.nvim daily as my file explorer in Neovim. It’s vim-vinegar style: you edit the filesystem like a normal buffer. Last week, I wanted to copy a file path but couldn’t find…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
@@ -52,10 +56,6 @@ The Starting Point I’ve been running a clinical assistance system for a few ye
 
 ### [Publishing Claude Code Skills as Plugins](<https://www.juanvasquez.dev/blog/publishing-claude-code-skills-as-plugins/>)<br><sub>Sep 1, 2026</sub>
 At OmbuLabs, we’ve been building Claude Code skills for Rails upgrades based on the FastRuby.io methodology. We had three skills working well locally, but distributing them meant…<br>
-<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
-
-### [Parallel CI Deprecation Tracking in next\_rails](<https://www.juanvasquez.dev/blog/parallel-ci-deprecation-tracking-next-rails/>)<br><sub>Aug 25, 2026</sub>
-I recently contributed two features to the next\_rails gem: parallel CI support for the deprecation tracker and a deprecations merge command to combine the results. This post…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
 
 <!-- BLOG-POST-LIST:END -->
