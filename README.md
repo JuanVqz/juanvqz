@@ -18,6 +18,10 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+### [Installing ReActionView: What the Herb Linter Found in My Views](<https://www.juanvasquez.dev/blog/installing-reactionview-and-what-the-herb-linter-found/>)<br><sub>Nov 3, 2026</sub>
+The Bet I Made Earlier A few months ago I moved a whole app from HAML to ERB. The argument was partly about ecosystem alignment, but the forward-looking part was a bet: once…<br>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
+
 ### [Linux Mint on a MacBook Pro 2015: Getting Wi-Fi Working Offline](<https://www.juanvasquez.dev/blog/linux-mint-on-macbook-pro-2015-wifi-drivers/>)<br><sub>Oct 27, 2026</sub>
 I wanted to run OpenClaw on native Linux hardware. The cheapest path? Repurpose my old MacBook Pro 2015 sitting in a drawer. I installed Linux Mint, rebooted, and immediately hit a…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
@@ -52,10 +56,6 @@ In August the Spanish locale of MDN closed issue #35373: every page under /es/do
 
 ### [From Bulma to Tailwind: Migrating a Rails App's CSS Framework](<https://www.juanvasquez.dev/blog/from-bulma-to-tailwind-css-migration-rails/>)<br><sub>Sep 8, 2026</sub>
 The Starting Point I’ve been running a clinical assistance system for a few years: doctors manage patient consultations, hospitalizations, and referrals across multiple hospital…<br>
-<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
-
-### [Publishing Claude Code Skills as Plugins](<https://www.juanvasquez.dev/blog/publishing-claude-code-skills-as-plugins/>)<br><sub>Sep 1, 2026</sub>
-At OmbuLabs, we’ve been building Claude Code skills for Rails upgrades based on the FastRuby.io methodology. We had three skills working well locally, but distributing them meant…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
 
 <!-- BLOG-POST-LIST:END -->
