@@ -18,6 +18,10 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+### [Custom Domain Email for $0: What Zoho's Free Plan Actually Gives You](<https://www.juanvasquez.dev/blog/custom-domain-email-for-free-cloudflare-zoho/>)<br><sub>Nov 10, 2026</sub>
+The Problem My résumé says hello@juanvasquez.dev. My replies came from a Gmail address that says nothing of the sort. That is because hello@ was never a real mailbox. It was a…<br>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
+
 ### [Installing ReActionView: What the Herb Linter Found in My Views](<https://www.juanvasquez.dev/blog/installing-reactionview-and-what-the-herb-linter-found/>)<br><sub>Nov 3, 2026</sub>
 The Bet I Made Earlier A few months ago I moved a whole app from HAML to ERB. The argument was partly about ecosystem alignment, but the forward-looking part was a bet: once…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
@@ -52,10 +56,6 @@ A developer in Guadalajara opens MDN to look up how fetch handles errors. They r
 
 ### [MDN's Writing Guidelines, Now Current in Spanish](<https://www.juanvasquez.dev/blog/finishing-a-60-page-mdn-localization-tracker/>)<br><sub>Sep 15, 2026</sub>
 In August the Spanish locale of MDN closed issue #35373: every page under /es/docs/MDN/Writing\_guidelines, 60 documents, synchronized with the English source. It took 114 days and…<br>
-<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
-
-### [From Bulma to Tailwind: Migrating a Rails App's CSS Framework](<https://www.juanvasquez.dev/blog/from-bulma-to-tailwind-css-migration-rails/>)<br><sub>Sep 8, 2026</sub>
-The Starting Point I’ve been running a clinical assistance system for a few years: doctors manage patient consultations, hospitalizations, and referrals across multiple hospital…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
 
 <!-- BLOG-POST-LIST:END -->
