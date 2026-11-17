@@ -18,6 +18,10 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+### [Add a Column, Change Your App: Rails Optimistic Locking](<https://www.juanvasquez.dev/blog/rails-optimistic-locking-lock-version/>)<br><sub>Nov 17, 2026</sub>
+The problem nobody notices until they do Two people open the same record. Both edit it. Both save. p1 = Person.find(1) p2 = Person.find(1) p1.first\_name = "Michael" p1.save…<br>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
+
 ### [Custom Domain Email for $0: What Zoho's Free Plan Actually Gives You](<https://www.juanvasquez.dev/blog/custom-domain-email-for-free-cloudflare-zoho/>)<br><sub>Nov 10, 2026</sub>
 The Problem My résumé says hello@juanvasquez.dev. My replies came from a Gmail address that says nothing of the sort. That is because hello@ was never a real mailbox. It was a…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
@@ -52,10 +56,6 @@ I recently migrated MayStore, a multitenant order management app, from 520 lines
 
 ### [Contributing to MDN in Spanish](<https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/>)<br><sub>Sep 22, 2026</sub>
 A developer in Guadalajara opens MDN to look up how fetch handles errors. They read English fine, but after nine hours of work it is the difference between understanding a page and…<br>
-<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
-
-### [MDN's Writing Guidelines, Now Current in Spanish](<https://www.juanvasquez.dev/blog/finishing-a-60-page-mdn-localization-tracker/>)<br><sub>Sep 15, 2026</sub>
-In August the Spanish locale of MDN closed issue #35373: every page under /es/docs/MDN/Writing\_guidelines, 60 documents, synchronized with the English source. It took 114 days and…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
 
 <!-- BLOG-POST-LIST:END -->
