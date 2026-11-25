@@ -18,6 +18,10 @@ Read more at [juanvasquez.dev](https://www.juanvasquez.dev), or find me on [Link
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+### [Updating a ROM Hack Without Losing 48 Hours of Pokémon](<https://www.juanvasquez.dev/blog/updating-a-rom-hack-without-losing-your-save/>)<br><sub>Nov 24, 2026</sub>
+I have been playing Pokémon Recharged Yellow on my Miyoo Mini+ for a while. How long, I only found out halfway through this post: the save screen says 48 hours. Then I noticed the…<br>
+<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
+
 ### [Add a Column, Change Your App: Rails Optimistic Locking](<https://www.juanvasquez.dev/blog/rails-optimistic-locking-lock-version/>)<br><sub>Nov 17, 2026</sub>
 The problem nobody notices until they do Two people open the same record. Both edit it. Both save. p1 = Person.find(1) p2 = Person.find(1) p1.first\_name = "Michael" p1.save…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
@@ -52,10 +56,6 @@ I wanted Guacamelee! because it is about luchadores. Then I found out the luchad
 
 ### [Installing maquina-components in a Rails App](<https://www.juanvasquez.dev/blog/installing-maquina-components-in-a-rails-app/>)<br><sub>Sep 29, 2026</sub>
 I recently migrated MayStore, a multitenant order management app, from 520 lines of custom CSS to maquina-components. This post covers what it takes, what worked well, and a few…<br>
-<img src=".github/assets/divider.svg" width="100%" height="1" alt="">
-
-### [Contributing to MDN in Spanish](<https://www.juanvasquez.dev/blog/contributing-to-mdn-in-your-language/>)<br><sub>Sep 22, 2026</sub>
-A developer in Guadalajara opens MDN to look up how fetch handles errors. They read English fine, but after nine hours of work it is the difference between understanding a page and…<br>
 <img src=".github/assets/divider.svg" width="100%" height="1" alt="">
 
 <!-- BLOG-POST-LIST:END -->
